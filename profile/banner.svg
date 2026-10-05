@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Avernixx: governed AI automation and agents for business">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1b3a"/>
+      <stop offset="1" stop-color="#1f5fbf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="url(#bg)"/>
+  <g stroke="#8fb8ff" stroke-opacity="0.35" stroke-width="2" fill="none">
+    <path d="M820 70 L940 150 L1060 80 L1120 170"/>
+    <path d="M940 150 L1000 215 L880 228 L940 150"/>
+    <path d="M820 70 L880 228"/>
+    <path d="M1060 80 L1000 215"/>
+  </g>
+  <g fill="#cfe1ff" fill-opacity="0.85">
+    <circle cx="820" cy="70" r="9"/>
+    <circle cx="940" cy="150" r="13"/>
+    <circle cx="1060" cy="80" r="9"/>
+    <circle cx="1000" cy="215" r="9"/>
+    <circle cx="880" cy="228" r="7"/>
+    <circle cx="1120" cy="170" r="7"/>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="130" font-size="68" font-weight="700" fill="#ffffff">Avernixx</text>
+    <text x="66" y="184" font-size="26" fill="#cfe1ff">Governed AI automation and agents for business</text>
+    <text x="66" y="228" font-size="18" fill="#9fc0f5">Singapore  ·  We build it, and we show our work</text>
+  </g>
+</svg>
